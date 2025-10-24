@@ -10,3 +10,4 @@
    ```
 3. Select the presets
    visit: https://starship.rs/presets/
+4. Update the same in starship.toml file and restart terminal
