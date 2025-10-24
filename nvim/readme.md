@@ -151,12 +151,11 @@ nvim +Lazy
 # Check Mason installations
 nvim +Mason
 ```
-Troubleshooting
+#### Troubleshooting
 If you encounter issues during setup :
 1. Font not displaying: Restart terminal application and verify font selection in terminal preferences
 2. LSP not working: Ensure Node.js is properly installed and accessible via node --version
 3. Clipboard issues: Verify xclip installation with xclip -version
-
-    Plugin installation errors: Check internet connection and run :Lazy sync in Neovim
+4. Plugin installation errors: Check internet connection and run :Lazy sync in Neovim
 
 This setup provides a complete development environment with the latest stable Neovim, essential command-line tools, and a fully configured AstroVim setup optimized for productivity.
