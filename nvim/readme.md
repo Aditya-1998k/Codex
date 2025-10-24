@@ -105,7 +105,8 @@ Replace the default Neovim configuration with your custom AstroVim setup:
 mv ~/.config/nvim ~/.config/nvim.backup 2>/dev/null || true
 
 # copy your AstroVim configuration
-# cp -r /path/to/your/nvim-config ~/.config/nvim
+# Download nvim.zip for above and extract it
+cp -r /download/nvim/ ~/.config/nvim/
 ```
 
 #### Initial Neovim Setup
